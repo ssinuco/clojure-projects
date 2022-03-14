@@ -1,6 +1,6 @@
 # clojure-projects
 
-Here are some projects coded by me to learn and practice Clojure. The list keeps growing.
+Here are some projects coded by me to learn and practice Clojure. The list keeps growing. Any feedback is appreciated.
 
 - [Guess the number](https://github.com/ssinuco/clojure-guess-the-number/): useful for practice conditionals, 
 - [Rock, paper and scissors](https://github.com/ssinuco/clojure-rock-paper-scissors): useful for practice clojure data structures.
